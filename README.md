@@ -1,2 +1,2 @@
 #Keyboard Drum Set
-A fun website that allows you to play a drum set using your computer keyboard.
+A fun website that allows you to play a drum set using your computer keyboard and its very engaging.
